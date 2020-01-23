@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\ExOnBuiltdeligates\bin\Debug\ExOnBuiltdeligates.exe.config
+C:\Users\DELL\source\repos\ExOnBuiltdeligates\bin\Debug\ExOnBuiltdeligates.exe
+C:\Users\DELL\source\repos\ExOnBuiltdeligates\bin\Debug\ExOnBuiltdeligates.pdb
+C:\Users\DELL\source\repos\ExOnBuiltdeligates\obj\Debug\ExOnBuiltdeligates.exe
+C:\Users\DELL\source\repos\ExOnBuiltdeligates\obj\Debug\ExOnBuiltdeligates.pdb
+C:\Users\DELL\source\repos\ExOnBuiltdeligates\obj\Debug\ExOnBuiltdeligates.csprojAssemblyReference.cache

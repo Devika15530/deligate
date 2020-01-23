@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExOnBuiltdeligates", "ExOnBuiltdeligates.csproj", "{776377E0-7BC3-4715-89A0-7B82BB58A59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776377E0-7BC3-4715-89A0-7B82BB58A59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776377E0-7BC3-4715-89A0-7B82BB58A59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776377E0-7BC3-4715-89A0-7B82BB58A59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776377E0-7BC3-4715-89A0-7B82BB58A59C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01BDADC1-7EB0-49A5-BD5B-0F13B092EAAD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\ExonDeligateObjects\bin\Debug\ExonDeligateObjects.exe.config
+C:\Users\DELL\source\repos\ExonDeligateObjects\bin\Debug\ExonDeligateObjects.exe
+C:\Users\DELL\source\repos\ExonDeligateObjects\bin\Debug\ExonDeligateObjects.pdb
+C:\Users\DELL\source\repos\ExonDeligateObjects\obj\Debug\ExonDeligateObjects.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ExonDeligateObjects\obj\Debug\ExonDeligateObjects.exe
+C:\Users\DELL\source\repos\ExonDeligateObjects\obj\Debug\ExonDeligateObjects.pdb

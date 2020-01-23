@@ -1,0 +1,6 @@
+E:\devika\C#\HandsOn\ExonObjectDeligate\bin\Debug\ExonObjectDeligate.exe.config
+E:\devika\C#\HandsOn\ExonObjectDeligate\bin\Debug\ExonObjectDeligate.exe
+E:\devika\C#\HandsOn\ExonObjectDeligate\bin\Debug\ExonObjectDeligate.pdb
+E:\devika\C#\HandsOn\ExonObjectDeligate\obj\Debug\ExonObjectDeligate.csprojAssemblyReference.cache
+E:\devika\C#\HandsOn\ExonObjectDeligate\obj\Debug\ExonObjectDeligate.exe
+E:\devika\C#\HandsOn\ExonObjectDeligate\obj\Debug\ExonObjectDeligate.pdb

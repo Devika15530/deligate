@@ -1,0 +1,6 @@
+E:\devika\C#\HandsOn\ExonDelegates\bin\Debug\ExonDelegates.exe.config
+E:\devika\C#\HandsOn\ExonDelegates\bin\Debug\ExonDelegates.exe
+E:\devika\C#\HandsOn\ExonDelegates\bin\Debug\ExonDelegates.pdb
+E:\devika\C#\HandsOn\ExonDelegates\obj\Debug\ExonDelegates.csprojAssemblyReference.cache
+E:\devika\C#\HandsOn\ExonDelegates\obj\Debug\ExonDelegates.exe
+E:\devika\C#\HandsOn\ExonDelegates\obj\Debug\ExonDelegates.pdb
